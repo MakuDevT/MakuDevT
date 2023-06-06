@@ -5,7 +5,7 @@
 
 - 💼 I’m currently working on **Xurpas Enterprise**
 
-- 🌱 I’m currently learning **Firebase and Production**
+- 🌱 I’m currently learning **React, Firebase and Production**
 
 - 💬 Ask me about **Flutter Mobile Development**
 
